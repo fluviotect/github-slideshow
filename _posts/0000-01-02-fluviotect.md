@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-this is a new file
+"If you're going to shoot, shoot. Don't talk."
 Use the left arrow to go back!
